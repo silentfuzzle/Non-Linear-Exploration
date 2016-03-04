@@ -1,2 +1,3 @@
-# Non-Linear-Exploration
-A non-linear exploration of non-linear narratives with Twine
+# A Non-Linear Exploration of Non-Linear Narratives
+
+This site is live at http://silentfuzzle.github.io/Non-Linear-Exploration/
